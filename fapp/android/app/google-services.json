@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "160461537584",
+    "project_id": "fapp204-93580",
+    "storage_bucket": "fapp204-93580.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160461537584:android:cb33e1a1661fb408be08f5",
+        "android_client_info": {
+          "package_name": "com.example.fapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ4zZ7AE2GdBeznoCJYkXX2fMV7mrkvyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
